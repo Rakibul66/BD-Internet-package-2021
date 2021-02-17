@@ -1,0 +1,20 @@
+200 MB	Tk. 18	*5000*18#	3 days
+75 MB	Tk. 13	*5000*543#	4 days
+1.2 GB	Tk. 41	*5000*41#	4 days
+2.5 GB	Tk. 58	*5000*58#	4 days
+4.5GB	Tk. 64	*5000*64#	4 days
+1GB	Tk. 16	*5000*216#	7 days
+150 MB	Tk. 26	*5000*522#	7 days
+500 MB	Tk. 42	*5000*588#	7 days
+4 GB	Tk. 108	*5000*108#	7 days
+7 GB	Tk. 114	*5000*114#	7 days
+11 GB	Tk. 129	*5000*129#	7 days
+15 GB	Tk. 149	*5000*149#	7 days
+18 GB	Tk. 169	*5000*169#	7 days
+5GB	TK. 46	*5000*246#	30 days
+2GB	TK. 209	*5000*581#	30 days
+3GB	Tk. 249	*5000*249#	30 days
+6GB	Tk. 299	*5000*299#	30 days
+12 GB	Tk. 399	*5000*599#	30 days
+40 GB	Tk. 499	*5000*508#	30 days
+45 GB	Tk. 999	*5000*999#	30 days
